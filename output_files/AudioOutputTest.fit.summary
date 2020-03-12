@@ -1,0 +1,16 @@
+Fitter Status : Successful - Tue Mar 10 16:58:23 2020
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : AudioOutputTest
+Top-level Entity Name : AudioOutputTest
+Family : Cyclone IV E
+Device : EP4CE115F29C7
+Timing Models : Final
+Total logic elements : 4,610 / 114,480 ( 4 % )
+    Total combinational functions : 4,428 / 114,480 ( 4 % )
+    Dedicated logic registers : 1,124 / 114,480 ( < 1 % )
+Total registers : 1124
+Total pins : 55 / 529 ( 10 % )
+Total virtual pins : 0
+Total memory bits : 1,049,600 / 3,981,312 ( 26 % )
+Embedded Multiplier 9-bit elements : 0 / 532 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )
